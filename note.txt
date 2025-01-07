@@ -1,0 +1,9 @@
+composer create-project laravel/laravel "project-name"
+
+php artisan breeze:install
+dark, ssr, typescript
+
+npm run dev
+php artisan serve
+php artisan inertia:start-ssr
+
